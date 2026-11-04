@@ -1,46 +1,72 @@
 # Rinconcito Chañarense
 
-Proyecto cultural y educativo de Ocarina Producciones dedicado exclusivamente a San Patricio del Chañar, Neuquén.
+Proyecto cultural y educativo independiente de **Ocarina Producciones**, dedicado a San Patricio del Chañar, Neuquén.
 
-## Qué incluye esta primera versión
+**Propósito:** reunir recursos gratuitos, claros y atractivos para que chicos, familias, docentes, vecinos y visitantes puedan conocer, aprender y compartir aspectos del territorio y su memoria.
 
-- Portada ilustrada y navegación por ocho áreas temáticas.
-- Sección inicial de historia y curiosidades.
-- Seis láminas originales para colorear, con impresión individual en A4.
+> Rinconcito Chañarense no es un sitio oficial municipal ni representa a organismos públicos.
+
+## Estructura actual
+
+- `index.html`: portada y experiencia principal responsive.
+- `fuentes.html`: registro público de fuentes consultadas, criterios editoriales, derechos y metodología.
+- `404.html`: página de error personalizada para GitHub Pages.
+
+## Contenidos disponibles
+
+- Navegación por ocho áreas temáticas.
+- Sección de historia local con información acotada a documentos identificables.
+- Seis láminas SVG originales para colorear, con impresión.
 - Trivia interactiva de cinco preguntas.
-- Misión de explorador imprimible.
-- Secciones de naturaleza, chacras, lugares, biblioteca e identidad.
-- Diseño adaptable a celulares, tabletas y computadoras.
-- Sin cuentas, formularios, base de datos, publicidad ni dependencias externas.
+- Misión de exploración imprimible.
+- Secciones introductorias sobre naturaleza, chacras, lugares, biblioteca e identidad.
+- Registro de fuentes y reglas de verificación.
+- Canal de contacto institucional a través de Ocarina Producciones.
+- Aporte voluntario opcional; nunca condiciona el acceso.
 
-## Publicación
+## Publicar con GitHub Pages
 
-El repositorio utiliza la rama `main` y el archivo de entrada `index.html`.
-
-Para publicar con GitHub Pages:
 1. Abrir **Settings** del repositorio.
 2. Entrar en **Pages**.
 3. En **Build and deployment**, elegir **Deploy from a branch**.
-4. Seleccionar la rama `main` y la carpeta `/ (root)`.
+4. Seleccionar la rama `main` y la carpeta `/(root)`.
 5. Guardar y esperar la publicación.
 
-## Criterio editorial y de derechos
+La dirección prevista es: https://eliasmartinezcultural-glitch.github.io/cha-arcito-/
 
-- No presentar el proyecto como sitio oficial municipal.
-- Las fotografías, testimonios y documentos de terceros requieren autorización o licencia compatible.
-- Los datos históricos deben contrastarse con fuentes primarias, archivos municipales y testimonios identificados.
-- Las fichas de naturaleza deben revisarse con fuentes especializadas antes de afirmar presencia local de especies.
-- Los datos que puedan cambiar (accesos, horarios, actividades, teléfonos) no se presentan como información vigente sin fecha de verificación.
-- Los materiales originales creados para el proyecto pueden reutilizarse indicando autoría de Ocarina Producciones.
+La URL solo estará activa cuando GitHub Pages esté habilitado para este repositorio.
 
-## Próximas ampliaciones editoriales
+## Criterios editoriales obligatorios
 
-Completar y documentar, antes de publicar cada entrega:
+1. Priorizar normas, documentos públicos, archivos institucionales y publicaciones técnicas identificables.
+2. Diferenciar hechos documentados, interpretaciones y testimonios.
+3. No inventar fechas, anécdotas, frases locales, especies presentes, horarios, accesos ni datos de seguridad.
+4. Para testimonios, fotografías y documentos personales, solicitar autorización antes de publicar.
+5. No reutilizar imágenes o textos de terceros solo porque aparezcan en Internet.
+6. Fechar la verificación de información que pueda cambiar.
+7. Corregir o retirar contenidos cuando aparezca evidencia confiable que los contradiga.
+
+El registro de fuentes se encuentra en [fuentes.html](fuentes.html).
+
+## Diseño y tecnología
+
+- HTML, CSS y JavaScript estáticos.
+- Sin cuentas, backend, base de datos, publicidad ni dependencias externas.
+- Adaptable a celulares, tabletas y computadoras.
+- Navegación accesible, foco visible y enlace para saltar al contenido.
+- Ilustraciones vectoriales originales; las láminas se imprimen desde el navegador.
+
+## Derechos
+
+Los materiales originales creados para el proyecto se identifican como producción de Ocarina Producciones. No se concede aquí una licencia general para reutilizar el contenido. Los recursos de terceros se incorporarán únicamente con permiso, licencia compatible o una excepción legal aplicable, respetando siempre la atribución correspondiente.
+
+## Próxima etapa de desarrollo
+
 - Cuadernillo histórico ilustrado con referencias documentales.
-- Libro infantil de colorear ampliado.
-- Fichas de flora y fauna con identificación verificada.
-- Cuadernillo sobre fruticultura, riego y oficios.
-- Postales, señaladores y piezas de identidad local.
-- Recursos escolares descargables en PDF.
+- Cuaderno infantil de colorear ampliado.
+- Fichas de flora y fauna con revisión especializada.
+- Cuadernillo sobre riego, fruticultura y oficios.
+- Postales, señaladores y stickers con identidad local documentada.
+- Recursos docentes y familiares imprimibles.
 
-**Importante:** las secciones identificadas como colecciones en preparación son una hoja de ruta, no materiales ya disponibles.
+**Regla de calidad:** no publicar una sección como material terminado si todavía es solamente una idea o una ficha pendiente.
