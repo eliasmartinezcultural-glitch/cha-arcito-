@@ -10,13 +10,13 @@ Proyecto cultural y educativo independiente de **Ocarina Producciones**, dedicad
 
 - `index.html`: portada y experiencia principal responsive.
 - `fuentes.html`: registro público de fuentes consultadas, criterios editoriales, derechos y metodología.
-- `404.html`: página de error personalizada para GitHub Pages.
+- `404.html`: página de error personalizada para GitHub Pages.\n- `materiales/cuaderno-explorador.html`: cuaderno educativo de seis páginas, listo para imprimir o guardar como PDF desde el navegador.
 
 ## Contenidos disponibles
 
 - Navegación por ocho áreas temáticas.
 - Sección de historia local con información acotada a documentos identificables.
-- Seis láminas SVG originales para colorear, con impresión.
+- Seis láminas SVG originales para colorear, con impresión.\n- Cuaderno explorador imprimible de seis páginas con actividades y consignas.
 - Trivia interactiva de cinco preguntas.
 - Misión de exploración imprimible.
 - Secciones introductorias sobre naturaleza, chacras, lugares, biblioteca e identidad.
